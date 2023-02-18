@@ -1,0 +1,24 @@
+{
+  "cources": [
+    {
+      "id": "course-html",
+      "title": "Курс по верстке"
+    },
+    {
+      "id": "course-js",
+      "title": "Курс по JavaScript"
+    },
+    {
+      "id": "course-vue",
+      "title": "Курс по VUE JS"
+    },
+    {
+      "id": "course-php",
+      "title": "Курс по PHP"
+    },
+    {
+      "id": "course-wordpress",
+      "title": "Курс по WordPress"
+    }
+  ]
+}
